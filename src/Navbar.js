@@ -1,4 +1,3 @@
-import reactDom from "react-dom";
 import {Link} from 'react-router-dom';
 
 const Navbar = () => {
